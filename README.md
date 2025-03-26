@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hi, I’m @PritamSuryawanshi<br>👀 I’m interested in web development & cybersecurity & Networking<br>🌱 I’m currently learning BSc IT<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me pritamsuryawanshi34@gmail.com
+👋 Hi, I’m @PritamSuryawanshi<br>👀 I’m interested in web development & cybersecurity & Networking<br>🌱 I’m currently learning BSc IT<br>
+📫 How to reach me pritamsuryawanshi34@gmail.com
 
 
 ## 🌐 Socials:
